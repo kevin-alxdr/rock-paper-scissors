@@ -13,9 +13,6 @@ A text-based Rock-Paper-Scissors game implemented in TypeScript and Node.js. The
 - Input validation for invalid choices
 - Clean console output
 
-## Purpose
-Demonstrates TypeScript programming, command-line interface design, and state management in a simple game. Emphasizes interactive design, input validation, and a structured approach to handling game logic.
-
 ## Tech Stack
 - Languages: TypeScript
 - Environment: Node.js
